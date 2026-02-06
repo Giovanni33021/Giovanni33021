@@ -1,6 +1,4 @@
-Hello I'm Giovanni. I'm new to programming
-Not sure which program would be best for stock market charts and custom analysis Python or Delphi
-Hoping someone can clarifty that for me
+New to programming, studying Delphi, then C++ to make a financial trading system
 
 
 <!---
