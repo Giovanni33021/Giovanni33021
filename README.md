@@ -1,4 +1,4 @@
-New to programming, studying Delphi, then C++ to make a financial trading system
+New to programming, studying VBA Excel, then Delphi, then C++ to make a custom financial trading system. I understand trading quite well. I just need to make a customized system to indicate when my setups hit, for me to focus in and trade them. 
 
 
 <!---
